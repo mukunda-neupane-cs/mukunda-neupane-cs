@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Mukunda Neupane
 
-<!--
-**mukunda-neupane-cs/mukunda-neupane-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at NJIT
 
-Here are some ideas to get you started:
+## About Me
+- Computer Science Student
+- Interested in Software Development, Data Analysis, and Machine Lerning
+- Experienced with Python, C++, Java, and SQL
+- Currently building projects and expanding my technical portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- C++
+- Java
+- SQL
+- Data Analysis
+- Machine Learning
+- System Design
+- Git & GitHub
+
+## Featured Projects
+
+### Student Performance Analysis
+Analyzed student performance data using Python, Pandas, and data visualizations.
+
+### Twitter System Design Project
+Designed a Twitter-like application using UML diagrams, use cases, project schedules, and system documentation.
+
+### Education
+New Jersey Institute of Technology (NJIT) - B.S in Computer Science
+
+
+County College of Morris (CCM) - Diploma in Computer Science
+
+
+## Contace
+LinkedIn:
+www.linkedin.com/in/mukunda-neupane-cs
+
