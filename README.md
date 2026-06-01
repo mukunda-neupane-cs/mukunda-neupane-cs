@@ -27,13 +27,13 @@ Analyzed student performance data using Python, Pandas, and data visualizations.
 Designed a Twitter-like application using UML diagrams, use cases, project schedules, and system documentation.
 
 ### Education
-New Jersey Institute of Technology (NJIT) - B.S in Computer Science
+* New Jersey Institute of Technology (NJIT) - B.S in Computer Science
 
 
-County College of Morris (CCM) - Diploma in Computer Science
+* County College of Morris (CCM) - Diploma in Computer Science
 
 
-## Contace
+## Contact
 LinkedIn:
 www.linkedin.com/in/mukunda-neupane-cs
 
